@@ -368,7 +368,7 @@ body{
 	width: 1000px;
 	height: 36px;
 	position: absolute;
-	left: 400px;
+	left: 250px;
 	top: 10px;
 }
 .header1-right li{
@@ -583,7 +583,7 @@ body{
 .header2-left img{
 	position: absolute;
 	top: 32px;
-	left: 250px;
+	left: 180px;
 	z-index: 1;
 }
 .header2-right form{
@@ -688,7 +688,7 @@ body{
     width: 900px;
     height: 36px;
     position: absolute;
-    left: 450px;
+    left: 440px;
 
 }
 .header3 li{
@@ -720,7 +720,7 @@ body{
 	background:#C60A0A; 
      float: left;
      position: absolute;
-     left: 220px;
+     left: 150px;
 
 }
 .header3 .i1{
@@ -760,7 +760,7 @@ body{
 	height: 500px;
 	margin: 0 auto;
 	position: relative;	
-	background: #BFB9B9;
+	background: #E8E8E8;
 	
 }
 .header4 .header4-right{
@@ -844,7 +844,7 @@ body{
 	background: #E3E5E8;
     position: absolute;
     top: 0px;
-    left: 220px;
+    left: 150px;
 }
 .header4-left .ulbox{
     list-style: none;
